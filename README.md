@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @ilylbgg
-- 👀 I’m interested in planes
-- 🌱 I’m currently learning ennglish annd italian
-- 💞️ I’m looking to collaborate on no one ...
-- 📫 How to reach me why ?
-- 😄 Pronouns: he him 
-- ⚡ Fun fact: i'm goood at english 
+- 👋 Salut j'suis Ilyas ! 
+- 🤖 un petit programmeur de bot Discord en python avec discord.py
+- 🌍 I am French, Moroccan and english
+-  I know the bases but I try to my best
 
 <!---
 ilylbgg/ilylbgg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
