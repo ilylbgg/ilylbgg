@@ -1,7 +1,7 @@
-- 👋 Salut j'suis Ilyas ! 
+- 👋 **__Salut__** j'suis Ilyas ! 
 - 🤖 un petit programmeur de bot Discord en python avec discord.py
 - 🌍 I am French, Moroccan and english
--  I know the bases but I try to my best
+-  I know a lot in coding but no one knows everyone (even me)
 
 <!---
 ilylbgg/ilylbgg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
